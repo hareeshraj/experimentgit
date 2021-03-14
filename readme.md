@@ -1,1 +1,1 @@
-it is a experimental
+it is a experimental detup of git 
