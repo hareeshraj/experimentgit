@@ -1,1 +1,2 @@
 this is file5 new commit in new branch
+New feature has been added.
